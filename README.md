@@ -1,4 +1,4 @@
-**👋 Hi, I’m Trang Tu [she/her]**
+## 👋 Hi, I’m Trang Tu [she/her]
 
 I'm a Master's student at Northeastern University. I used to major in Biotechnology when I was in college and slowly transitioned myself into Bioinformatics. 
 
