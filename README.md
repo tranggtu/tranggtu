@@ -2,7 +2,7 @@
 
 I'm a Master's student at Northeastern University. 
 
-I spent 8 years in Seoul, South Korea, where I completed my undergraduate degree in Biotechnology. After gaining three years of industry experience, I decided to move to the U.S. to further my studies, deepen my expertise, and become skilled with computational tools.
+I spent 8 years in Seoul, South Korea, where I completed my undergraduate degree in Life Science and Biotechnology. After gaining three years of industry experience, I decided to move to the U.S. to further my studies, deepen my expertise, and become skilled with computational tools.
 
 Bioinformatics is burgeoning and interwoven with biotechnologies in disease diagnosis. 
 I have a keen interest in applying algorithms to drug discovery and bridging the gap between biological knowledge and computational tools. 
