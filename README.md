@@ -17,8 +17,6 @@ Whether it’s the textures of a local dish or the unique details in everyday sc
 ## 🌟 Connect with me
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/trang-tu-983573136/)
 
-![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) (Have to attach link here after creating)
-
 ## 💻 Technical Skills
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
