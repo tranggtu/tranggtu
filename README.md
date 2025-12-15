@@ -9,7 +9,7 @@ I have a keen interest in applying algorithms to drug discovery and bridging the
 With extensive experience in wet labs and a solid foundation in programming with R and Python, I can easily comprehend wet-lab data, review literature effectively, and communicate my findings. 
 I have a strong interest in cancer biology, particularly in oncology treatment.
 
-I will be graduating with a Master’s in Bioinformatics from Northeastern University in August 2025. 
+I will be graduating with a Master’s in Bioinformatics from Northeastern University in December 2025. 
 
 ⚡ Fun fact: I'm passionate about traveling, exploring new cuisines, and capturing life’s little moments through photography. 
 Whether it’s the textures of a local dish or the unique details in everyday scenes, I love immersing myself in the experience and preserving it through photos.
